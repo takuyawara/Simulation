@@ -1,1 +1,1 @@
-# Simulation
+# Pythonによるシミュレーション
